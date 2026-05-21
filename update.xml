@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!-- update.xml — gerado por build-crx.sh / atualizado 2026-05-21 -->
+<!-- Próximas atualizações: rodar build-crx.sh (atualiza SHA256 + version automaticamente) -->
+<gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
+  <app appid='aojlpjhoaaanecobpmeiblilijlbkbna'>
+    <updatecheck
+      codebase='https://pub-XXXX.r2.dev/essential-wa.crx'
+      version='9.27.0'
+      hash_sha256='a6ec5ada2bc7ee37b59bb53fe73d616fcc06ee9c041d15203e3607f4994ea832' />
+  </app>
+</gupdate>
